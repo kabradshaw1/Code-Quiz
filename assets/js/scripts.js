@@ -1,4 +1,5 @@
-var questions = [
+// questions 
+var questions = [    
     {
         "question": "Inside which HTML element do we put the JavaScript?",
         "answer": ["<js>", "<scripting>", "<script>", "<javascript>"],
